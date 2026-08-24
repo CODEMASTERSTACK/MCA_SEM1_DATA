@@ -1,10 +1,47 @@
 # MCA Semester 1 Practical Repository
 
-◈ Overview
+<div align="center">
+
+[![Academic Project](https://img.shields.io/badge/Project-Academic%20Repository-0d6efd?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://github.com/)
+[![Course](https://img.shields.io/badge/Course-MCA-28a745?style=for-the-badge&logo=book&logoColor=white)](https://github.com/)
+[![Semester](https://img.shields.io/badge/Semester-Semester%201-ffb703?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/)
+[![Language](https://img.shields.io/badge/Languages-Python%20%7C%20C%2B%2B%20%7C%20SQL-6f42c1?style=for-the-badge&logo=code&logoColor=white)](https://github.com/)
+
+</div>
+
+## ▣ Project Information
+
+- Student Name: Krish
+- Course: Master of Computer Applications (MCA)
+- Semester: Semester 1
+- Academic Focus: Programming, DBMS, Networking, and Practical Lab Work
+- Repository Type: Academic Practical Portfolio
+
+---
+
+## ◈ Overview
 
 This repository is a structured collection of academic practical work completed during the MCA Semester 1 curriculum. It includes hands-on exercises, programming assignments, database tasks, networking concepts, and supporting syllabus materials for the core subjects pursued in the course.
 
 The work is organized by subject area so that each practical can be reviewed, revised, and executed independently.
+
+---
+
+## ◈ Repository Purpose
+
+This repository documents the practical learning journey undertaken during the MCA Semester 1 curriculum. It consolidates core lab work across programming, database systems, and networking into one structured academic archive for revision, practice, and evaluation.
+
+---
+
+## ◈ Academic Scope
+
+This project includes practical activities covering:
+
+- Python programming fundamentals and problem-solving
+- C++ programming concepts and logic building
+- Advanced DBMS operations using SQL
+- Networking concepts and packet-based laboratory tasks
+- Course syllabus alignment and academic reference materials
 
 ---
 
