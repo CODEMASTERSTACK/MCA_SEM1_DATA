@@ -11,7 +11,7 @@
 
 ## ▣ Project Information
 
-- Student Name: Krish
+- Student Name: Kripal Singh
 - Course: Master of Computer Applications (MCA)
 - Semester: Semester 1
 - Academic Focus: Programming, DBMS, Networking, and Practical Lab Work
